@@ -1,0 +1,20 @@
+.navbar {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--clr-degrade);
+    border-bottom: 3px solid black;
+  }
+  
+  .logo, .logo-carrito {
+    height: 40px;
+    width: auto;
+    margin-left: 20px; 
+    cursor: pointer; 
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .logo:hover, .logo-carrito:hover {
+    transform: scale(1.1);
+  }
