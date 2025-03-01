@@ -17,8 +17,11 @@ Una calculadora interactiva desarrollada en **React**. Este proyecto utiliza la 
 ### Características
 
 ✅ Realiza operaciones básicas: suma, resta, multiplicación y división.
+
 ✅ Permite la visualización del resultado o un mensaje de error en caso de operaciones inválidas.
+
 ✅ Botón "Clear" para limpiar la pantalla y comenzar una nueva operación.
+
 ✅ Interfaz interactiva y fácil de usar, basada en React.
 
 ### Tecnologías utilizadas
@@ -37,10 +40,14 @@ Esta es una aplicación de tareas desarrollada en React con TypeScript, que perm
 ### Características
 
 ✅ Agregar tareas con un formulario interactivo.
+
 ✅ Completar o desmarcar tareas con un solo clic.
+
 ✅ Eliminar tareas individualmente.
+
 ✅ Persistencia de datos mediante Local Storage.
-✅ Interfaz sencilla y fácil de usar.
+
+✅ Interfaz sencilla y fácil de usar
 
 ### Tecnologías utilizadas
 
@@ -60,12 +67,19 @@ Este proyecto es una tienda en línea donde los usuarios pueden visualizar produ
 ### Características
 
 ✅ Visualización de productos con detalles como nombre, precio y categoría.
+
 ✅ Posibilidad de filtrar productos por categoría (buzos, medias, pantalones, etc.).
+
 ✅ Agregar productos al carrito de compras.
+
 ✅ Visualización del carrito con los productos añadidos, su precio unitario y el precio total.
+
 ✅ Persistencia del carrito mediante LocalStorage, para que la información no se pierda al recargar la página.
+
 ✅ Sección "Nosotros" con información sobre la tienda.
+
 ✅ Sección de "Contacto" con un formulario para recibir información del usuario.
+
 ✅ El formulario de contacto genera un objeto con la información ingresada.
 
 ### Tecnologías utilizadas
